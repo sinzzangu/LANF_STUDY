@@ -1,2 +1,3 @@
 # LANF_STUDY
 LANF STUDY PROJECT
+Bangjunhan_penalty_5000₩
