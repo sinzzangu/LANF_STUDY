@@ -3,7 +3,7 @@ Bot Settings Configuration File
 This file contains the settings for the bot.
 
 Author: Juan Dodam
-Version: 1.0.0
+Version: 2.0.0 - Updated for Slash Commands
 """
 import discord
 import os
@@ -11,13 +11,11 @@ from dotenv import load_dotenv
 from setups.logger_setup import setup_logger, log_startup_info, log_shutdown_info
 load_dotenv()
 
-COMMAND_PREFIX = "!"
-
 # Bot Description
-BOT_DESCRIPTION = "Sample Discord Bot, created by Juan Dodam"
+BOT_DESCRIPTION = "Sample Discord Bot with Slash Commands, created by Juan Dodam"
 
 # Bot Version
-BOT_VERSION = "1.0.0"
+BOT_VERSION = "2.0.0"
 
 # Bot Author
 BOT_AUTHOR = "Juan Dodam"
@@ -39,7 +37,7 @@ FILE_LOGGING = True
 
 def get_intents():
     """
-    Conficure Discord intents based on bot requirements
+    Configure Discord intents based on bot requirements
 
     Returns:
         discord.Intents: Configured discord intents object
@@ -94,7 +92,6 @@ def get_token():
         logger.warning("⚠️ Token appears to be unusually short - may be invalid")
     
     logger.info("✅ Discord bot token retrieved and validated successfully")
-    # logger.debug(f"Token length: {len(token)} characters")
     
     return token
 
