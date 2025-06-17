@@ -39,16 +39,13 @@ class SlashBot(discord.Client):
         )
         
         # Initialize command tree
-        self.tree = app_commands.CommandTree(self)
+        self.tree = app_commands.CommandTree(self) # creating an empty tree
     
     async def setup_hook(self):
         """Load all cogs and sync commands on startup."""
         if settings.AUTO_LOAD_COGS:
             await self.load_all_cogs()
         
-        # Debug: Show loaded commands
-        commands = self.tree.get_commands()
-        self.logger.info(f"📋 Loaded commands: {[cmd.name for cmd in commands]}")
         
         # Sync commands to Discord
         try:
@@ -76,6 +73,7 @@ class SlashBot(discord.Client):
             
             cog_name = f"cogs.{cog_file.stem}"
             
+
             try:
                 # Import the module and call setup function
                 module = __import__(cog_name, fromlist=[''])
