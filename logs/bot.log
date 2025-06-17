@@ -1,28 +1,27 @@
-2025-06-16 23:35:43 - discord_bot - INFO - Logger 'discord_bot' initialized with level INFO
-2025-06-16 23:35:43 - discord_bot - INFO - ==================================================
-2025-06-16 23:35:43 - discord_bot - INFO - 🚀 Discord Bot Starting Up
-2025-06-16 23:35:43 - discord_bot - INFO - ==================================================
-2025-06-16 23:35:43 - discord_bot - INFO - Python Version: 3.13.4 | packaged by Anaconda, Inc. | (main, Jun  4 2025, 15:26:43) [MSC v.1929 64 bit (AMD64)]
-2025-06-16 23:35:43 - discord_bot - INFO - Discord.py Version: 2.5.2
-2025-06-16 23:35:43 - discord_bot - INFO - Platform: Windows 11
-2025-06-16 23:35:43 - discord_bot - INFO - Start Time: 2025-06-16 23:35:43
-2025-06-16 23:35:43 - discord_bot - INFO - ==================================================
-2025-06-16 23:35:43 - discord_bot - INFO - Announcement function command loaded successfully
-2025-06-16 23:35:43 - discord_bot - INFO - ✅ Loaded cog: cogs.announcement
-2025-06-16 23:35:43 - discord_bot - INFO - Ping function command loaded successfully
-2025-06-16 23:35:43 - discord_bot - INFO - ✅ Loaded cog: cogs.ping
-2025-06-16 23:35:43 - discord_bot - INFO - 📦 Loaded 2 cogs total
-2025-06-16 23:35:43 - discord_bot - INFO - 📋 Loaded commands: ['공지', 'ping']
-2025-06-16 23:35:44 - discord_bot - INFO - 🔄 Synced 2 slash commands
-2025-06-16 23:35:44 - discord_bot - INFO - 📤 Synced command names: ['공지', 'ping']
-2025-06-16 23:35:46 - discord_bot - INFO - 🚀 준한봇#6129 is online!
-2025-06-16 23:35:46 - discord_bot - INFO - 📊 Connected to 1 guilds
-2025-06-16 23:35:46 - discord_bot - INFO - ⚡ Using slash commands
-2025-06-16 23:35:58 - discord_bot - INFO - 🎯 INTERACTION RECEIVED: /ping from dodamthepig
-2025-06-16 23:36:07 - discord_bot - INFO - 🎯 INTERACTION RECEIVED: /공지 from dodamthepig
-2025-06-16 23:36:12 - discord_bot - INFO - 🎯 INTERACTION RECEIVED: /공지 from dodamthepig
-2025-06-16 23:36:25 - discord_bot - INFO - 🎯 INTERACTION RECEIVED: /공지 from dodamthepig
-2025-06-16 23:36:33 - discord_bot - INFO - ==================================================
-2025-06-16 23:36:33 - discord_bot - INFO - 🛑 Discord Bot Shutting Down
-2025-06-16 23:36:33 - discord_bot - INFO - Shutdown Time: 2025-06-16 23:36:33
-2025-06-16 23:36:33 - discord_bot - INFO - ==================================================
+2025-06-17 22:20:52 - discord_bot - INFO - Logger 'discord_bot' initialized with level INFO
+2025-06-17 22:20:52 - discord_bot - INFO - ==================================================
+2025-06-17 22:20:52 - discord_bot - INFO - 🚀 Discord Bot Starting Up
+2025-06-17 22:20:52 - discord_bot - INFO - ==================================================
+2025-06-17 22:20:52 - discord_bot - INFO - Python Version: 3.13.4 | packaged by Anaconda, Inc. | (main, Jun  4 2025, 15:26:43) [MSC v.1929 64 bit (AMD64)]
+2025-06-17 22:20:52 - discord_bot - INFO - Discord.py Version: 2.5.2
+2025-06-17 22:20:52 - discord_bot - INFO - Platform: Windows 11
+2025-06-17 22:20:52 - discord_bot - INFO - Start Time: 2025-06-17 22:20:52
+2025-06-17 22:20:52 - discord_bot - INFO - ==================================================
+2025-06-17 22:20:53 - discord_bot - INFO - Announcement function command loaded successfully
+2025-06-17 22:20:53 - discord_bot - INFO - ✅ Loaded cog: cogs.utils.announcement
+2025-06-17 22:20:53 - discord_bot - INFO - Ping function command loaded successfully
+2025-06-17 22:20:53 - discord_bot - INFO - ✅ Loaded cog: cogs.utils.ping
+2025-06-17 22:20:53 - discord_bot - INFO - 📁 Loaded 2 cogs from utils category
+2025-06-17 22:20:53 - discord_bot - INFO - 📦 Loaded 2 cogs total
+2025-06-17 22:20:53 - discord_bot - INFO - 📋 Loaded commands: ['공지', 'ping']
+2025-06-17 22:20:54 - discord_bot - INFO - 🔄 Synced 2 slash commands
+2025-06-17 22:20:54 - discord_bot - INFO - 📤 Synced command names: ['공지', 'ping']
+2025-06-17 22:20:57 - discord_bot - INFO - 🚀 준한봇#6129 is online!
+2025-06-17 22:20:57 - discord_bot - INFO - 📊 Connected to 1 guilds
+2025-06-17 22:20:57 - discord_bot - INFO - ⚡ Using slash commands
+2025-06-17 22:22:12 - discord_bot - INFO - 🎯 INTERACTION RECEIVED: /ping from dodamthepig
+2025-06-17 22:22:31 - discord_bot - INFO - 🎯 INTERACTION RECEIVED: /공지 from dodamthepig
+2025-06-17 22:22:40 - discord_bot - INFO - ==================================================
+2025-06-17 22:22:40 - discord_bot - INFO - 🛑 Discord Bot Shutting Down
+2025-06-17 22:22:40 - discord_bot - INFO - Shutdown Time: 2025-06-17 22:22:40
+2025-06-17 22:22:40 - discord_bot - INFO - ==================================================
