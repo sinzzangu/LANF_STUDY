@@ -1,1 +1,32 @@
-.env
+# 기존 .gitignore에 내용 추가
+cat >> .gitignore << 'EOF'
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 로그 파일
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# 기타
+*.pyc
+EOF
