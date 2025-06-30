@@ -1,5 +1,8 @@
-# 기존 .gitignore에 내용 추가
-cat >> .gitignore << 'EOF'
+# .gitignore 파일 생성/수정
+cat > .gitignore << 'EOF'
+# 환경 변수 파일 (중요!)
+.env
+config.json
 
 # Python
 __pycache__/
