@@ -1,0 +1,102 @@
+{
+  "진영": {
+    "tier": "마스터",
+    "rank": "1",
+    "main_position": "원딜",
+    "sub_position": "모두가능",
+    "mmr": 1800,
+    "wins": 0,
+    "losses": 2,
+    "total_games": 2
+  },
+  "종서": {
+    "tier": "플래티넘",
+    "rank": "4",
+    "main_position": "미드",
+    "sub_position": "모두가능",
+    "mmr": 1200,
+    "wins": 1,
+    "losses": 1,
+    "total_games": 2
+  },
+  "준한": {
+    "tier": "에메랄드",
+    "rank": "4",
+    "main_position": "탑",
+    "sub_position": "모두가능",
+    "mmr": 1400,
+    "wins": 1,
+    "losses": 1,
+    "total_games": 2
+  },
+  "현준": {
+    "tier": "플래티넘",
+    "rank": "4",
+    "main_position": "서폿",
+    "sub_position": "탑 빼고",
+    "mmr": 1200,
+    "wins": 1,
+    "losses": 1,
+    "total_games": 2
+  },
+  "호빈": {
+    "tier": "골드",
+    "rank": "3",
+    "main_position": "미드",
+    "sub_position": "정글 빼고",
+    "mmr": 1050,
+    "wins": 2,
+    "losses": 0,
+    "total_games": 2
+  },
+  "지환": {
+    "tier": "아이언",
+    "rank": "2",
+    "main_position": "서폿",
+    "sub_position": "정글",
+    "mmr": 500,
+    "wins": 0,
+    "losses": 2,
+    "total_games": 2
+  },
+  "철우": {
+    "tier": "다이아몬드",
+    "rank": "4",
+    "main_position": "정글",
+    "sub_position": "모두가능",
+    "mmr": 1600,
+    "wins": 0,
+    "losses": 2,
+    "total_games": 2
+  },
+  "지훈": {
+    "tier": "다이아몬드",
+    "rank": "3",
+    "main_position": "원딜",
+    "sub_position": "원딜",
+    "mmr": 1650,
+    "wins": 2,
+    "losses": 0,
+    "total_games": 2
+  },
+  "태종": {
+    "tier": "에메랄드",
+    "rank": "4",
+    "main_position": "정글",
+    "sub_position": "원딜 빼고",
+    "mmr": 1400,
+    "wins": 1,
+    "losses": 1,
+    "total_games": 2
+  },
+  "현아": {
+    "tier": "골드",
+    "rank": "1",
+    "main_position": "서폿",
+    "sub_position": "서폿",
+    "mmr": 1150,
+    "wins": 2,
+    "losses": 0,
+    "total_games": 2
+  }
+}
